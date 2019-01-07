@@ -1,0 +1,14 @@
+#spring:
+#  application:
+#    name: config-server
+#  cloud:
+#    config:
+#      server:
+#        git:
+#          uri: https://gitee.com/big_whale/config-repo-demo/
+#          username: whalewhalewhale@qq.com
+#          password: 2726406@bin
+#
+#
+#server:
+#  port: 1201
